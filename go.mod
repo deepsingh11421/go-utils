@@ -1,4 +1,4 @@
-module deepsingh11421/go-utils
+module github.com/deepsingh11421/go-utils
 
 go 1.17
 
